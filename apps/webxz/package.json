@@ -1,5 +1,5 @@
 {
-  "name": "web",
+  "name": "webxz",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,8 +12,15 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "next": "14.2.5",
+    "@xmtp/react-sdk": "8.0.1",
+    "@xmtp/frames-client": "^0.5.4",
+    "@xmtp/xmtp-js": "^12.1.0",
     "axios": "^1.7.4",
-    "react-scripts": "5.0.1"
+    "buffer": "^6.0.3",
+    "ethers": "^5.7.0",
+    "react-scripts": "5.0.1",
+    "wagmi": "2.12.5",
+    "viem": "^2.9.31"
   },
   "devDependencies": {
     "@repo/eslint-config": "*",
